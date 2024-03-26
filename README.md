@@ -27,7 +27,7 @@ This mobile application allows users to create, edit, and delete notes on their 
 
 ## Setup Instructions
 
-1. Clone the repository from [GitHub](https://github.com/your-repo-url).
+1. Clone the repository from [GitHub](https://github.com/McDonaldMusimwa/NotesAppXamarin.git).
 2. Open the solution file in Visual Studio.
 3. Build the solution to restore NuGet packages.
 4. Run the application on your desired platform emulator or physical device.
