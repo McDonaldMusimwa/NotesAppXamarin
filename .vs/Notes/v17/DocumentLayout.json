@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\dotnetlessons\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\views\\notespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\views\\notespage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\views\\noteentrypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\views\\noteentrypage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\views\\noteentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\views\\noteentrypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\views\\notespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\views\\notespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\data\\notedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\data\\notedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|c:\\projects\\dotnetlessons\\notes\\notes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D76504C-1C6C-47A5-B78F-BCE041EE0ED4}|Notes\\Notes.csproj|solutionrelative:notes\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 324,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 76,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\App.xaml.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\App.xaml.cs",
+              "RelativeToolTip": "Notes\\App.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:30:40.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\App.xaml",
+              "RelativeDocumentMoniker": "Notes\\App.xaml",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\App.xaml",
+              "RelativeToolTip": "Notes\\App.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T13:30:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\AppShell.xaml",
+              "RelativeToolTip": "Notes\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T13:26:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteEntryPage.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NoteEntryPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\NoteEntryPage.xaml.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NoteEntryPage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\NoteEntryPage.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwEAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:49:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "Notes\\Views\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T13:23:56.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotesPage.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NotesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\NotesPage.xaml.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NotesPage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\NotesPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:22:02.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesPage.xaml",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NotesPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\NotesPage.xaml",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NotesPage.xaml",
+              "RelativeToolTip": "Notes\\Views\\NotesPage.xaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T13:13:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Notes\\Models\\Note.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Models\\Note.cs",
+              "RelativeToolTip": "Notes\\Models\\Note.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T09:37:46.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteEntryPage.xaml",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NoteEntryPage.xaml",
+              "RelativeDocumentMoniker": "Notes\\Views\\NoteEntryPage.xaml",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\NoteEntryPage.xaml",
+              "RelativeToolTip": "Notes\\Views\\NoteEntryPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T09:46:36.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NoteDataBase.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Data\\NoteDataBase.cs",
+              "RelativeDocumentMoniker": "Notes\\Data\\NoteDataBase.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Data\\NoteDataBase.cs",
+              "RelativeToolTip": "Notes\\Data\\NoteDataBase.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:05:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\AppShell.xaml.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\AppShell.xaml.cs",
+              "RelativeToolTip": "Notes\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:29:58.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "Notes\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "Notes\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:24:23.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Notes.csproj",
+              "DocumentMoniker": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Notes.csproj",
+              "RelativeDocumentMoniker": "Notes\\Notes.csproj",
+              "ToolTip": "C:\\projects\\dotnetlessons\\Notes\\Notes\\Notes.csproj",
+              "RelativeToolTip": "Notes\\Notes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T13:10:01.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
